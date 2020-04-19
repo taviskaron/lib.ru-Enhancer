@@ -22,3 +22,17 @@
 - заархивировать его и экспортировать стандартными средствами,
 - создать новый скрипт, поместив в него код текущего.
 
+Скриншоты
+---------
+
+### Без скрипта
+
+![](https://raw.githubusercontent.com/taviskaron/lib.ru-Enhancer/master/screenshots/sc0.jpg)
+
+----
+
+### Результат работы скрипта
+
+![](https://raw.githubusercontent.com/taviskaron/lib.ru-Enhancer/master/screenshots/sc1.jpg)
+
+![](https://raw.githubusercontent.com/taviskaron/lib.ru-Enhancer/master/screenshots/sc2.jpg)
