@@ -20,11 +20,11 @@
 
   	// ================ ADD YOUR FONTS ================ //
 
-  	// enter your favourite serif font here (inside the quotes). The font must be already installed.
+  	// enter your favourite serif font here (inside the quotation marks). The font must be already installed.
   
 		var yourFontSerif = 'Source Serif Pro';
   
-  	// enter your favourite sans-serif font here (inside the quotes). The font must be already installed.
+  	// enter your favourite sans-serif font here (inside the quotation marks). The font must be already installed.
   
   	var yourFontSansSerif = 'Source Sans Pro';
   
