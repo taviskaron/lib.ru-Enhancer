@@ -98,7 +98,6 @@
 
     // event handlers for both functions
     document.getElementById('app').addEventListener("click", recalc, false);
-    document.getElementById('app').addEventListener("click", realign, false);
   
   
   
